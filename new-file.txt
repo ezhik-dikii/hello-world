@@ -1,3 +1,5 @@
 A SUPER NEW FILE
 WITH MINDLESS CONTENT
 ADDED TO REPOSITORY
+
+added new lower-case line to new-file.txt
